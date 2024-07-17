@@ -68,3 +68,12 @@ a:hover {
 .songs {
   margin-top: 2%;
 }
+
+.history h1 {
+  font-size: 145%;
+}
+
+.history {
+  height: 50vh;
+  overflow: scroll;
+}
