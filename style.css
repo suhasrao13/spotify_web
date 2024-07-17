@@ -75,5 +75,6 @@ a:hover {
 
 .history {
   height: 50vh;
-  overflow: scroll;
+  border: 4px solid black;
+  overflow: auto;
 }
